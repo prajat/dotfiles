@@ -1,7 +1,7 @@
 Pull the repository and its submodules...
 
 ```bash
-$ git clone git@github.com:curtisbridges/dotfiles.git ~
+$ git clone git@github.com:prajat/dotfiles.git ~
 $ cd dotfiles
 $ stow --target=$HOME zsh tmux starship # plus whatever else you'd like
 ```
